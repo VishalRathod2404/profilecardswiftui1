@@ -6,7 +6,7 @@ Profile Card made with SwiftUI
 
 
 
-## Custom Rounded Corners in SwiftUI by [raghava.codes](https://www.instagram.com/p/CJyO77pgex4/?igshid=198hw5s9w6y3e)
+## Custom Rounded Corners in SwiftUI by [RV's.codes](https://www.instagram.com/p/CJyO77pgex4/?igshid=198hw5s9w6y3e)
 
 ```
 import SwiftUI
